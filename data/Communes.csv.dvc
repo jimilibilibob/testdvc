@@ -1,0 +1,5 @@
+outs:
+- md5: 8b707971667ece31c5e693442437962d
+  size: 1086048
+  path: Communes.csv
+  isexec: true
